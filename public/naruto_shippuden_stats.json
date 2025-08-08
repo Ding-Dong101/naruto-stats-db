@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "role": "Seventh Hokage",
+    "image": "https://cdn.pixabay.com/photo/2023/09/04/07/39/ai-generated-8232206_640.png",
+    "stats": {
+      "Strength": 90,
+      "Speed": 85,
+      "Intelligence": 70,
+      "Chakra": 95
+    }
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "role": "Shadow Hokage",
+    "image": "https://i.pinimg.com/originals/9e/9b/d0/9e9bd0196b896ab7ae6062473584a1bf.jpg",
+    "stats": {
+      "Strength": 88,
+      "Speed": 92,
+      "Intelligence": 85,
+      "Chakra": 94
+    }
+  },
+  {
+    "name": "Sakura Haruno",
+    "role": "Medical Ninja",
+    "image": " https://i.pinimg.com/originals/1f/43/02/1f4302a513c3a3d22d6bb7d2c179cfda.png",
+    "stats": {
+      "Strength": 95,
+      "Speed": 75,
+      "Intelligence": 88,
+      "Chakra": 80
+    }
+  },
+  {
+    "name": "Kakashi Hatake",
+    "role": "Sixth Hokage",
+    "image": "https://i.pinimg.com/474x/04/88/92/048892c13c7c7f5851f41fc355abb784.jpg ",
+    "stats": {
+      "Strength": 82,
+      "Speed": 85,
+      "Intelligence": 95,
+      "Chakra": 85
+    }
+  },
+  {
+    "name": "Gaara",
+    "role": "Kazekage",
+    "image": "https://i.pinimg.com/474x/0e/1f/08/0e1f08f13329d52bffec16c60a302830.jpg",
+    "stats": {
+      "Strength": 80,
+      "Speed": 70,
+      "Intelligence": 85,
+      "Chakra": 90
+    }
+  },
+  {
+    "name": "Itachi Uchiha",
+    "role": "Akatsuki Member",
+    "image": "https://i.pinimg.com/736x/c9/8d/ea/c98dead7ae4716176821252e86b7631e.jpg",
+    "stats": {
+      "Strength": 85,
+      "Speed": 88,
+      "Intelligence": 98,
+      "Chakra": 90
+    }
+  },
+  {
+    "name": "Madara Uchiha",
+    "role": "Legendary Uchiha",
+    "image": "https://i.pinimg.com/474x/43/c1/07/43c1072ce03848459b44946f53bd0ef4.jpg",
+    "stats": {
+      "Strength": 98,
+      "Speed": 94,
+      "Intelligence": 92,
+      "Chakra": 100
+    }
+  }
+]
