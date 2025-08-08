@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Naruto Uzumaki",
+        "role": "Seventh Hokage",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Naruto_Uzumaki.png",
+        "stats": {
+            "Strength": 90,
+            "Speed": 85,
+            "Intelligence": 70,
+            "Chakra": 95
+        }
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "role": "Shadow Hokage",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/79/SasukeUchihaPart2.png",
+        "stats": {
+            "Strength": 88,
+            "Speed": 92,
+            "Intelligence": 85,
+            "Chakra": 94
+        }
+    },
+    {
+        "name": "Sakura Haruno",
+        "role": "Medical Ninja",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Sakura_Haruno.png",
+        "stats": {
+            "Strength": 95,
+            "Speed": 75,
+            "Intelligence": 88,
+            "Chakra": 80
+        }
+    },
+    {
+        "name": "Kakashi Hatake",
+        "role": "Sixth Hokage",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Kakashihatake.png",
+        "stats": {
+            "Strength": 82,
+            "Speed": 85,
+            "Intelligence": 95,
+            "Chakra": 85
+        }
+    },
+    {
+        "name": "Gaara",
+        "role": "Kazekage",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/88/GaaraNaruto.png",
+        "stats": {
+            "Strength": 80,
+            "Speed": 70,
+            "Intelligence": 85,
+            "Chakra": 90
+        }
+    },
+    {
+        "name": "Itachi Uchiha",
+        "role": "Akatsuki Member",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/ItachiUchiha.png",
+        "stats": {
+            "Strength": 85,
+            "Speed": 88,
+            "Intelligence": 98,
+            "Chakra": 90
+        }
+    },
+    {
+        "name": "Madara Uchiha",
+        "role": "Legendary Uchiha",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Madara_Uchiha.png",
+        "stats": {
+            "Strength": 98,
+            "Speed": 94,
+            "Intelligence": 92,
+            "Chakra": 100
+        }
+    }
+]
